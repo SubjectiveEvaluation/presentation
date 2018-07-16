@@ -1,1 +1,1 @@
-# presentation
+Check out this small presentation to understand the workflow of the project. I've tried my best to break down the concept into simple steps which are easy to understand by a professional as well as a non technical person.
